@@ -28,6 +28,7 @@ namespace wpf_test_1
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             b_1.Content = "Hello";
+            b_1.Content = "Hello, world";
            
         }
     }
